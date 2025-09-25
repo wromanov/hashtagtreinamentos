@@ -33,7 +33,7 @@ print(5 // 3)
 #multiplicação
 print(5 * 3)
 
-#poteciação
+#potenciação
 print(5 ** 2)
 
 #mod (resto da divisão de 5 por 3)
